@@ -1,0 +1,10 @@
+name: LazerVision
+version: 1.0
+author: issvor
+main: com.issvor.lazervision.LazerVision
+api-version: 1.14
+commands:
+  lazervision:
+    flagrate: [enable, disable]
+    usage: "/<command> [enable/disable]"
+    description: /<command> [enable/disable]
